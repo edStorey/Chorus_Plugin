@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2013
+Project("{870BBA28-48DA-4FFE-E37C-C9054CF0D1F1}") = "Chorus", "Chorus.vcxproj", "{0953C644-70F9-A734-134A-B16670C2AF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0953C644-70F9-A734-134A-B16670C2AF64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0953C644-70F9-A734-134A-B16670C2AF64}.Debug|Win32.Build.0 = Debug|Win32
+		{0953C644-70F9-A734-134A-B16670C2AF64}.Release|Win32.ActiveCfg = Release|Win32
+		{0953C644-70F9-A734-134A-B16670C2AF64}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
